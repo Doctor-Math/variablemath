@@ -24,8 +24,8 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://www.instagram.com/matheussoares77_/)
-[![LinkedIn](https://www.linkedin.com/in/matheus-soares-7b89a4233/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheussoares77_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-7b89a4233/)
 
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VariableMath&show_icons=true&theme=nord)
