@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Matheus! A passionate Data Science student from Brazil.
 
-  - 🌱 I'm currently studying Data Science at the Federal University of Minas Gerais (UFMG) <img align="center" alt="html5" src="https://github.com/VariableMath/variablemath/blob/VariableMath/Logo_UFMG.png?raw=true" width="50" />
+  - 🌱 I'm currently studying Data Science at the Federal University of Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Science and Data Analysi.
 </p>
