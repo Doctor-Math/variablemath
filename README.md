@@ -7,6 +7,7 @@
 <!-- Presentation -->
 <p>
   Olá 👋, sou o Matheus! Um estudante apaixonado pela Ciência de Dados no Brasil
+  
   - 🌱 Atualmente, estou graduando na Universidade Federal de Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
 
   - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar um dia com Ciência de Dados e Análise de Dados.
