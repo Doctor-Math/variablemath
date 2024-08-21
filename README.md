@@ -32,8 +32,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [PDS I](https://github.com/VariableMath/PDS-I)
-- [Fundamentos de Programção](https://github.com/VariableMath/Programming-Fundamentals)
+- [Batalha de Pokemons](https://github.com/Doctor-Math/Batalha-de-Pokemons)
+- [Análise dos Acidentes de Trânsito de Belo Horizonte](https://github.com/Doctor-Math/Analise-dos-Acidentes-de-Transito-de-Belo-Horizonte)
+- [PDS I](https://github.com/Doctor-Math/PDS-I)
+- [Fundamentos de Programção](https://github.com/Doctor-Math/Fundamentos-de-Programacao)
+- [Programação Multiplataforma](https://github.com/Doctor-Math/Programacao-Multiplataforma)
   
 In update...
 
