@@ -42,7 +42,7 @@ In update...
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableMath/variablemath/blob/VariableMath/tokyonight.gif?raw=true" alt="Imagem">
+  <img align="center" src="https://github.com/Doctor-Math/Doctor-Math/blob/DoctorMath/tokyonight.gif?raw=true" alt="Imagem">
 </p>
 
 ## 🔥 Skills
