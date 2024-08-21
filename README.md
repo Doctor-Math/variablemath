@@ -20,7 +20,7 @@
   - 💬 Tenho 19 anos, atualmente moro no Brasil. Tenho fluência intermediária em inglês e tenho experiência com SQL, Python, Análise de Dados e Visualização de Dados.
 
   - ⚡ Meus hobbies favoritos são estudar dados, compilar gráficos, analisar estudos e pesquisas científicas, ler livros históricos, políticos, econômicos e religiosos, e assistir a bons filmes - especialmente franquias clássicas e consagradas. E, claro, nunca nego a oportunidade de me reunir e socializar com meus amigos próximos!
-  - Na minha opinião, quanto mais conhecimento adquirimos, mais eficiente a Ciência de Dados é como uma ferramenta que nos fornece uma compreensão ampla do mundo em que vivemos. Dados, quando bem usados, têm o poder fantástico de contar a verdadeira história por trás do universo, da sociedade humana e de nós mesmos, como indivíduos.\o/
+  - Na minha opinião, quanto mais conhecimento adquirimos, mais eficiente a Ciência de Dados é como uma ferramenta que nos fornece uma compreensão ampla do mundo em que vivemos. Dados, quando bem usados, têm o poder fantástico de contar a verdadeira história por trás do universo, da sociedade humana e de nós mesmos, como indivíduos.
 </details>
 
 <!-- Links -->
