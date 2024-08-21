@@ -6,21 +6,20 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Matheus! A passionate Data Science student from Brazil.
+  Olá 👋, sou o Matheus! Um estudante apaixonado pela Ciência de Dados no Brasil
+  - 🌱 Atualmente, estou graduando na Universidade Federal de Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
 
-  - 🌱 I'm currently studying Data Science at the Federal University of Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Science and Data Analysi.
+  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar um dia com Ciência de Dados e Análise de Dados.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis and Data visualization.
+  - 💬 Tenho 19 anos, atualmente moro no Brasil. Tenho fluência intermediária em inglês e tenho experiência com SQL, Python, Análise de Dados e Visualização de Dados.
 
-  - ⚡ My favorite hobbies are studying data, compiling graphs, analyzing scientific studies and research, reading historical, political, economic and religious books, and watching good films - especially classic and established franchises. And, of course, I never deny the opportunity to get together and socialize with my close friends!
-  - In my opinion, the more knowledge we acquire, the more efficient Data Science is as a tool that provides us with a broad understanding of the world in which we live. Data, when used well, has the fantastic power to tell the true story behind the universe, human society and ourselves, as individuals.\o/
+  - ⚡ Meus hobbies favoritos são estudar dados, compilar gráficos, analisar estudos e pesquisas científicas, ler livros históricos, políticos, econômicos e religiosos, e assistir a bons filmes - especialmente franquias clássicas e consagradas. E, claro, nunca nego a oportunidade de me reunir e socializar com meus amigos próximos!
+  - Na minha opinião, quanto mais conhecimento adquirimos, mais eficiente a Ciência de Dados é como uma ferramenta que nos fornece uma compreensão ampla do mundo em que vivemos. Dados, quando bem usados, têm o poder fantástico de contar a verdadeira história por trás do universo, da sociedade humana e de nós mesmos, como indivíduos.\o/
 </details>
 
 <!-- Links -->
@@ -43,9 +42,9 @@ In update...
 </p>
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+<!-- Skills: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de Programação</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -53,16 +52,16 @@ In update...
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
+  <!-- Skills: Ferramentas & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas & Frameworkss</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   </div>
   
-  <!-- Skills: Libraries -->
+  <!-- Skills: Bibliotecas -->
   <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
+    <h3>Bibliotecas</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </div>
