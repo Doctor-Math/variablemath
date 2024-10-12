@@ -6,18 +6,18 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, sou o Matheus! Um estudante apaixonado pela Ciência de Dados no Brasil
+  Olá 👋! Sou o Matheus, um estudante brasileiro apaixonado pela Ciência de Dados!
   
-  - 🌱 Atualmente, estou graduando na Universidade Federal de Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
+  - 🌱 Atualmente, estou me graduando na Universidade Federal de Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar um dia com Ciência de Dados e Análise de Dados.
+  - 🔭 Participo como trainee na empresa de dados Pi Junior. Desde os 16 anos, tenho sonhado em trabalhar com Ciência e Análise de Dados.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 19 anos, atualmente moro no Brasil. Tenho fluência intermediária em inglês e tenho experiência com SQL, Python, Análise de Dados e Visualização de Dados.
+  - 💬 Tenho 19 anos e, atualmente, moro no Brasil. Tenho fluência intermediária em inglês e possuo experiência com SQL, Python, Análise de Dados e Visualização de Dados (Excel, Google Sheets e Apps Script).
 
   - ⚡ Meus hobbies favoritos são estudar dados, compilar gráficos, analisar estudos e pesquisas científicas, ler livros históricos, políticos, econômicos e religiosos, e assistir a bons filmes - especialmente franquias clássicas e consagradas. E, claro, nunca nego a oportunidade de me reunir e socializar com meus amigos próximos!
   - Na minha opinião, quanto mais conhecimento adquirimos, mais eficiente a Ciência de Dados é como uma ferramenta que nos fornece uma compreensão ampla do mundo em que vivemos. Dados, quando bem usados, têm o poder fantástico de contar a verdadeira história por trás do universo, da sociedade humana e de nós mesmos, como indivíduos.
