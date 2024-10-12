@@ -62,6 +62,7 @@ In update...
     <h3>Ferramentas & Frameworkss</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Sheets" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg">
   </div>
   
   <!-- Skills: Bibliotecas -->
