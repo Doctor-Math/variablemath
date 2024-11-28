@@ -10,7 +10,7 @@
   
   - 🌱 Atualmente, estou me graduando na Universidade Federal de Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
 
-  - 🔭 Participo como trainee na empresa de dados Pi Junior. Desde os 16 anos, tenho sonhado em trabalhar com Ciência e Análise de Dados.
+  - 🔭 Sou membro efetivo da empresa de dados Pi Junior. Desde os 16 anos, sonhei em trabalhar com Ciência e Análise de Dados.
 </p>
 
 <!-- Dropdown -->
