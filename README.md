@@ -10,7 +10,7 @@
   
   - 🌱 Atualmente, estou me graduando na Universidade Federal de Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
 
-  - 🔭 Sou membro efetivo da empresa de dados Pi Junior. <img align="center" alt="html5" src="https://lh5.googleusercontent.com/g6KcKn1hXi95X2lYSyE2WHf4Gl76BTPyhaZaTckksRrWPQR2KlwvED885XhPefPvaR65vXxxoZ4_llP4glol4T4=w16383" width="25" />
+  - 🔭 Sou membro efetivo da empresa de dados Pi Junior. <img align="center" alt="html5" src="https://github.com/Doctor-Math/Doctor-Math/blob/DoctorMath/logo_pi.png" width="25" />
   - Desde os 16 anos, sonho em trabalhar com Ciência e Análise de Dados!
 </p>
 
